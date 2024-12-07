@@ -14,3 +14,6 @@ Zhaolong Zhang
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/%E2%80%9CGEO441b_in_class_exercise_lat_lon_calc_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+## Spatial Analysis for Vector Data
+
+- https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector-data/mapping-cholera-outbreaks-pumps-london.ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb
