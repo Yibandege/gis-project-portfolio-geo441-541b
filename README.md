@@ -25,7 +25,7 @@ Zhaolong Zhang
 - [Working with U.S. Census Data for Spatial Analysis](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_12_assignment_template.ipynb)
 ## Build Selections and Queries
 
-[Query spatial data for new insights](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/%E2%80%9Cweek_05_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+[Query spatial data for new insights](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/Build%20Selections%20and%20Queries/%E2%80%9Cweek_05_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
 
 
 
