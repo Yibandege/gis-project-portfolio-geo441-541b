@@ -15,13 +15,13 @@ Zhaolong Zhang
 
 - [Buffer analysis](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/%E2%80%9CGEO441b_in_class_exercise_lat_lon_calc_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
 - [Practice spatial analysis for vector data](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector-data/mapping-cholera-outbreaks-pumps-london.ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
-- [Projecting Geographic Data](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/%E2%80%9Cweek_03_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+- [Projecting Geographic Data](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector-data/%E2%80%9Cweek_03_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
   
 
 ## Spatial Analysis for raster Data
 
 - [Inspect different band composites of landsat images](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-vector-data/mapping-cholera-outbreaks-pumps-london.ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
-- [Spatial analysis for raster data](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/%E2%80%9Cweek_09_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+- [Spatial analysis for raster data](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-raster-data/%E2%80%9Cweek_09_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
 - [Working with U.S. Census Data for Spatial Analysis](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/spatial-analysis-raster-data/Copy_of_week_12_assignment_template.ipynb)
 ## Build Selections and Queries
 
