@@ -30,4 +30,4 @@ Zhaolong Zhang
 
 
 ## Web-based Mapping
-- [Data Model and More Mapping](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/Build%20Selections%20and%20Queries/%E2%80%9Cweek_02_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+- [Data Model and More Mapping](https://github.com/Yibandege/gis-project-portfolio-geo441-541b/blob/main/Web-based%20Mapping/%E2%80%9Cweek_02_assignment_template_ipynb%E2%80%9D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
